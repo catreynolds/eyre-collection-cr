@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Jane Eyre and Mr. Rochester: A Digital Collection
+title: Jane Eyre and Mr. Rochester, A Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Depictions of the Victorian couple through the centuries
+tagline: Depictions of the Victorian Couple Through the Centuries
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This digital collection was created as a part of SLIS:5030 at the University of Iowa. This collection of digital images highlights the different renditions of Mr. Rochester and Jane Eyre from Charlotte Brontë's classic gothic romance."
+description: "This digital collection was created as a part of SLIS:5030 at the University of Iowa and highlights the different renditions of Mr. Rochester and Jane Eyre from the classic gothic romance."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Catie Reynolds
 
