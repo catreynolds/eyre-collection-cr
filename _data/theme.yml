@@ -37,9 +37,9 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 ##########
 # MAP PAGE
 #
-auto-center-map: false
-latitude: 35.7465
-longitude: 39.4629
+auto-center-map: true
+latitude: 
+longitude: 
 zoom-level: 7
 map-base: Esri_WorldImagery
 map-search: true
