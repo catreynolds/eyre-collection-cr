@@ -4,7 +4,7 @@ layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
-# This digital collection was curated by Catherine Reynolds, an MLIS candidate at the University of Iowa. 
+# This digital collection was curated by Catherine Reynolds, an MLIS candidate at the University of Iowa 
 The images that appear in this collection are believed to be in the public domain under the United States copyright law or through CC licensing with appropriate attribution. Additionally, this exhibit falls under the scope of "fair use" outlined in Section 107 of  U.S. Copy Right Act, which allows for the limited use of copyrighted materials for non-profit, educational, scholarly, and research purposes.
 If you believe this exhibit violates the "fair use" standard or copyright, please contact the curator at catherine-reynolds@uiowa.edu
 # Look in _includes/feature for options to easily add features to the page
