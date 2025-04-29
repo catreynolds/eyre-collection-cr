@@ -7,11 +7,8 @@ credits: true
 # This digital collection was curated by Catherine Reynolds, an MLIS candidate at the University of Iowa 
 The images that appear in this collection are believed to be in the public domain under the United States copyright law or through CC licensing with appropriate attribution. Additionally, this exhibit falls under the scope of "fair use" outlined in Section 107 of  U.S. Copy Right Act, which allows for the limited use of copyrighted materials for non-profit, educational, scholarly, and research purposes.
 If you believe this exhibit violates the "fair use" standard or copyright, please contact the curator at catherine-reynolds@uiowa.edu
-# Look in _includes/feature for options to easily add features to the page
+# {% include feature/image.html objectid="eyrecollect010" width="75" caption="Jane Eyre and Mr. Rochester Embracing" %}
 ---
-
-{% include feature/image.html objectid="eyrecollect010" width="75" caption="Jane Eyre and Mr. Rochester Embracing" %}
-
 ## About CollectionBuilder-Sheets
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
