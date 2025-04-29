@@ -37,12 +37,15 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 ##########
 # MAP PAGE
 #
-auto-center-map: true
+auto-center-map: false
+latitude: 35.7465
+longitude: 39.4629
+zoom-level: 7
 map-base: Esri_WorldImagery
 map-search: true
-map-search-fuzziness: 0.35 # fuzzy search range from 1 = anything to 0 = exact match only
-map-cluster: true # true/false, suggested for large collection or with many items in same location
-map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
+map-search-fuzziness: 0.35
+map-cluster: true
+map-cluster-radius: 15
 
 ##########
 # TIMELINE PAGE
