@@ -2,9 +2,11 @@
 title: About
 layout: about
 permalink: /about.html
+
+This digital collection was curated by Catherine Reynolds, an MLIS candidate at the Univeresity of Iowa. 
 # include CollectionBuilder info at bottom
-credits: true
-#
+credits: true 
+
 ---
 ## About CollectionBuilder-Sheets
 
