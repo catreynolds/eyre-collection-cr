@@ -1,6 +1,9 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+creator role,Creator Role
+contributor,Contributor
+publisher,Publisher
 date,Date Created,
 description,Description,
 subject,Subjects,true
